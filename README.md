@@ -1,1 +1,1 @@
-# Learning Flow-Based Exact Likelihoods for Inference with Applications in Cosmology
+# Flow-Based Likelihoods for Non-Gaussian Inference
